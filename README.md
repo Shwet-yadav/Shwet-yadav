@@ -22,7 +22,7 @@
 <h1 align="center">MY Skill Stars⭐</h1>
 
 
-<p><img align="center" src="https://github.com//somnath-swami/blob/main/Untitled%20Diagram-Page-2.png" alt="Shwet-yadav" /></p>
+<p><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/Untitled%20Diagram-Page-2.png" alt="Shwet-yadav" /></p>
 
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Shwet-yadav&show_icons=true&theme=tokyonight&line_height=27">
