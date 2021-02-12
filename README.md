@@ -30,7 +30,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shwet-yadav&theme=tokyonight" alt="Shwet-yadav" /></p>
-<p><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/view.png/?user=Shwet-yadav&theme=tokyonight" alt="Shwet-yadav" /></p>
+<p><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/view.png/?user=Shwet-yadav&theme=tokyonight" alt="Shwet-yadav" /></p>
  
 
 
