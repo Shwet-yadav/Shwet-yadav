@@ -22,12 +22,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
-<a href="##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
-<a href="##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
-<a href="##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
- <a href="##" target="blank"><img align="center" src="##" alt="##" height="85" width="85" /></a>
+<a href="https://www.codechef.com/users/shweta_yadav" target="blank"><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/cheflogo.png" alt="##" height="55" width="55" /></a>
+<a href="https://www.linkedin.com/in/shweta-yadav-5242a8202/" target="blank"><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/linkedinlogo.png" alt="##" height="55" width="55" /></a>
+<a href="https://twitter.com/Shweta_Yadav__?s=08" target="blank"><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/twitterlogo.png" alt="##" height="55" width="55" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shwetayadav8601" target="blank"><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/gfglogo.png" alt="##" height="55" width="55" /></a>
+ <a href="https://www.instagram.com/el_estrella__/" target="blank"><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/instalogo.png" alt="##" height="85" width="85" /></a>
 </p>
+
+
+
+
 
 <h1 align="center">MY Skill Stars⭐</h1>               
 
