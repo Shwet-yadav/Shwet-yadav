@@ -17,9 +17,19 @@
 
 - 📧 How to reach me **shwetayadav86016@gmail.com**
 
-- ⭐ Fun fact **I'm smart enough to know that I'm dumb!**
+- ⭐ Fun fact **I'm smart enough to know that I'm dumb!** 
 
-<h1 align="center">MY Skill Stars⭐</h1>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
+<a href="##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
+<a href="##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
+<a href="##" target="blank"><img align="center" src="##" alt="##" height="55" width="55" /></a>
+ <a href="##" target="blank"><img align="center" src="##" alt="##" height="85" width="85" /></a>
+</p>
+
+<h1 align="center">MY Skill Stars⭐</h1>               
 
 
 <p><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/Untitled%20Diagram-Page-2.png" alt="Shwet-yadav" /></p>
