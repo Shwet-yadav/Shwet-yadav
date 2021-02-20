@@ -1,6 +1,6 @@
        
 <h1 align="center">Hey 👋, I'm Shweta Yadav </h1>
-<h3 align="center">I learned very early the difference between knowing the Name of Something and knowing Something</h3>
+<h3 align="center">I learned very early the difference between knowing the Name of something and knowing something</h3>
 
  <p align="left">
        
