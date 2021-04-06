@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking to collaborate on **Github**
 
-- 📧 How to reach me **shwetayadav86016@gmail.com**
+- 📧 How to reach me **shwetayadav8601@gmail.com**
 
 - ⭐ Fun fact **I'm smart enough to know that I'm dumb!** 
 
