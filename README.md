@@ -47,5 +47,4 @@
 <p><img align="center" src="https://github.com/Shwet-yadav/Shwet-yadav/blob/main/github/view.png/?user=Shwet-yadav&theme=tokyonight" alt="Shwet-yadav" /></p>
  
 
-<h1 align="center"> Welcome to my GITHUB WORLD </h1> 
 
